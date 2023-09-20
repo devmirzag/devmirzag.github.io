@@ -9,7 +9,7 @@ function Footer() {
           <h2>Connect With Me</h2>
         </div>
         <div className="social-body">
-          <a className="github-box" href="https://github.com/kasodon" target="_blank">
+          <a className="github-box" href="https://github.com/MirzaHamad" target="_blank">
             <p>Github</p>
             <svg viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
               <path
@@ -20,7 +20,7 @@ function Footer() {
               />
             </svg>
           </a>
-          <a className="linkedin-box" href="https://www.linkedin.com/in/edewor-onyedika/" target="_blank">
+          <a className="linkedin-box" href="https://www.linkedin.com/in/mirza-hammad-baig-30332b207/" target="_blank">
             <p>LinkedIn</p>
             <svg viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
               <path
@@ -29,7 +29,7 @@ function Footer() {
               />
             </svg>
           </a>
-          <a className="twitter-box" href="https://twitter.com/web3_overlord" target="_blank">
+          <a className="twitter-box" href="https://twitter.com/mirzahamad123" target="_blank">
             <p>Twitter</p>
             <svg viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
               <path
@@ -38,7 +38,7 @@ function Footer() {
               />
             </svg>
           </a>
-          <a className="schedule-box" href="https://calendly.com/edeworonyedika" target="_blank">
+          <a className="schedule-box" href="https://calendly.com/mirzahammadbaig2" target="_blank">
             <p>Calendly</p>
             <svg viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
               <path
@@ -50,7 +50,7 @@ function Footer() {
             </svg>
           </a>
         </div>
-        <a className="social-mail" href="mailto:edeworonyedika@gmail.com" target="_blank">
+        <a className="social-mail" href="mailto:mirzahammadbaig2@gmail.com" target="_blank">
           <div className="box">
             <p>Shoot Me A Mail</p>
             <MailImg className="mail" />
