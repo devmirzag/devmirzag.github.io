@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/510.ec40e4c6.chunk.js","mappings":"sHAQA,UARA,WACE,OACE,gBAAKA,UAAU,OAAf,UACE","sources":["pages/Blog/blog.js"],"sourcesContent":["function Blog() {\n  return (\n    <div className=\"blog\">\n      <p>protected by copyright © 2001-2023 Namecheap.com</p>\n    </div>\n  )\n}\n\nexport default Blog\n"],"names":["className"],"sourceRoot":""}

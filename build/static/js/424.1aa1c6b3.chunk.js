@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmirza=self.webpackChunkmirza||[]).push([[424],{424:function(c,e,a){a.r(e);var r=a(184);e.default=function(){return(0,r.jsx)("div",{className:"contact",children:(0,r.jsx)("p",{children:"protected by copyright \xa9 2001-2023 Namecheap.com"})})}}}]);
+//# sourceMappingURL=424.1aa1c6b3.chunk.js.map
